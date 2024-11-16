@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @greedyfishj
-- 👀 I’m interested in video games and coding stuffs
-- 🌱 I’m currently learning basic coding and languages like C, python, java, JS...
+- void
 - 📫 How to reach me: selain.cecil@gmail.com
